@@ -67,3 +67,10 @@ out.print(number + ": ");
 return Float.parseFloat(br.readLine());
 }
 }
+/*
+(base) LEDLE-Vostro-3710:-/Narendra Gores Javec CalcServer.java 
+[1] 28863 
+(base) ithit-Vastro-3718-/narendra Caras /narendra Gara$ java Calcserver ORBInitialPort 18584 
+(base) (ngit-Vestro-3710:-/Macendre Gores Ready.. 
+(hase) Legit-Vostro-3718-/Rarandra Goras 
+ */

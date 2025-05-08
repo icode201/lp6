@@ -65,3 +65,7 @@ e.printStackTrace(System.out);
 System.out.println("Exiting ...");
 }
 }
+/*
+Javac CalcClient.java 
+java CalcClient ORBInitialPort 1650 
+ */

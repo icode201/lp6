@@ -9,3 +9,13 @@ float mul(in float a, in float b);
 float sub(in float a, in float b);
 };
 };
+/*
+(base) itoit-Vostro-3718-/Harendra Gores idly-rall Calc.idt 
+(base) itgiz-Vostro-3738-/Narendra Gores javac java Calcapp/java 
+CalcApp/ CalcStub.java:113: warning: TORChackTapl is internal proprietary APT and nay be removed in a future release com.sun.corba.se.mpl.orbutil. ICRCheckImpl.check(str, "CalcApp, CalcStub"); 
+Note: CalcApp/CalcP0A.java uses unchecked or unsate operations. 
+Note: Recompile with -Xlint:unchecked for details. 
+1 warning 
+(base) ttgtt-Vostro-3710:-/Narendra Gores orbd -ORBInitialPort 10508 
+[1] 28765 
+*/

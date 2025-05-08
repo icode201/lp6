@@ -51,3 +51,15 @@ public static void main(String args[])
 Server server = new Server(5000);
 }
 }
+/*
+3.2.3.jar: command not found 
+(base) tt-Vostro-3738-/Ashita Gore/Ast 25 javac Search.java 
+(base) Itott-Vostro-3718-/Ahktta Gore/Axxignment 15 javac SearchQuery.java 
+(base) itgit-Vostro-3738-/anksta Gore/Assignment 15 rnic SearchQue Warning: generation and use of skeletons and static stubs for 30AP 
+Ls deprecated. Skeletons are unnecessary, and static stubs have been superseded by dynamically generated stubs. Users are encouraged to stgrate away from usting rate to generate skeletons and static stubs. See the documentation for java.iml.server.UnicastRemoteObject. 
+(base) ttatt-Vostro-3718:-/Ankita Gore/Asalgnment 1$ rniregistry & 11 5384 
+(base) itgit-Vostro-3738-/Ankita Gore/Assignment 15 javac Server.java (hase) ttatt-Vostro-3718-/Ankita Care/Asatgnment 15 java Server 
+Server started 
+Walting for a client Lent 
+Citent accepted 
+*/
